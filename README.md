@@ -20,14 +20,4 @@ Post exams
 
 ## BI
 
-# Option securité
-
-## CEH
-
-DS 25/11
-
-## pentesting
-
-projet netcat deadline : 04/12
-
 On a random TP session she will validate the current work
