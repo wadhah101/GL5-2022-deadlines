@@ -21,3 +21,14 @@ Post exams
 ## BI
 
 On a random TP session she will validate the current work
+
+## Sécurité
+
+### Pentesting
+
+Ds/TP 4 December
+
+### CEH
+
+DS 25 December
+Lab 1
