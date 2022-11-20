@@ -1,8 +1,8 @@
 # GL5-2023-2022-deadlines
 
-## Deep learning 
+## Deep learning
 
-TP1 : 09-12-2022
+TP1: 09-12-2022
 
 ## Urbanisation
 
@@ -12,7 +12,7 @@ DS: Last TP
 
 Post exams online
 
-## Devops
+## DevOps
 
 Post exams
 
@@ -20,15 +20,15 @@ Post exams
 
 ## BI
 
-On a random TP session she will validate the current work
+On a random TP session, she will validate the current work
 
 ## Sécurité
 
 ### Pentesting
 
-Ds/TP 4 December
+Ds/TP: 04-12-2022
 
 ### CEH
 
-DS 25 December
+DS: 25-12-2022
 Lab 1
