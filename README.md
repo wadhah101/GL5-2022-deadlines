@@ -18,6 +18,8 @@ Post exams
 
 ## Cloud
 
+Projet TP: 15-12-2022
+
 ## BI
 
 On a random TP session, she will validate the current work
